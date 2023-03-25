@@ -6,6 +6,7 @@ import android.util.Log
 import androidx.core.content.edit
 import androidx.security.crypto.EncryptedSharedPreferences
 import androidx.security.crypto.MasterKeys
+import br.com.joaovitorqueiroz.sharedpreferences.model.User
 
 class SharedPreferencesManager(private val context: Context) {
 

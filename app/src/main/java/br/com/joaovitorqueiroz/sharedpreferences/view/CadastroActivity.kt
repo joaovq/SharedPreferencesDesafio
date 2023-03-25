@@ -1,11 +1,10 @@
-package br.com.joaovitorqueiroz.sharedpreferences
+package br.com.joaovitorqueiroz.sharedpreferences.view
 
-import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import br.com.joaovitorqueiroz.sharedpreferences.databinding.ActivityCadastroBinding
+import br.com.joaovitorqueiroz.sharedpreferences.model.User
 import br.com.joaovitorqueiroz.sharedpreferences.prefs.SharedPreferencesManager
-import br.com.joaovitorqueiroz.sharedpreferences.prefs.User
 
 class CadastroActivity : AppCompatActivity() {
 

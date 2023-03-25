@@ -1,11 +1,11 @@
-package br.com.joaovitorqueiroz.sharedpreferences
+package br.com.joaovitorqueiroz.sharedpreferences.view
 
 import android.os.Build
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import br.com.joaovitorqueiroz.sharedpreferences.databinding.ActivityHomeBinding
+import br.com.joaovitorqueiroz.sharedpreferences.model.User
 import br.com.joaovitorqueiroz.sharedpreferences.prefs.SharedPreferencesManager
-import br.com.joaovitorqueiroz.sharedpreferences.prefs.User
 import java.util.*
 
 class HomeActivity : AppCompatActivity() {

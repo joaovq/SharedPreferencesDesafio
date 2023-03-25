@@ -1,4 +1,4 @@
-package br.com.joaovitorqueiroz.sharedpreferences.prefs
+package br.com.joaovitorqueiroz.sharedpreferences.model
 
 import android.os.Parcel
 import android.os.Parcelable

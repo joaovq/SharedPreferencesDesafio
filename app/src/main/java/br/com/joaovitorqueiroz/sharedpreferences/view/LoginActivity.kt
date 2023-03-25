@@ -1,4 +1,4 @@
-package br.com.joaovitorqueiroz.sharedpreferences
+package br.com.joaovitorqueiroz.sharedpreferences.view
 
 import android.content.Intent
 import android.os.Bundle
